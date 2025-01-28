@@ -20,11 +20,9 @@ Frontend: [e.g., Next.js, React]
 
 Backend: [e.g., Node.js, Express.js, Sanity]
 
-Database: [e.g., MongoDB, Firebase]
-
 Cloud Platform: [e.g., Vercel, Netlify, AWS]
 
-Tools: TypeScript, Git, VS Code, Docker (optional for containerization)
+Tools: TypeScript, Git, VS Code
 
 Objectives:
 
